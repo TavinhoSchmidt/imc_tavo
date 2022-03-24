@@ -1,0 +1,50 @@
+*{
+    font-family:cursive;
+
+}
+body{
+    font-size: small;
+    background-color:rgb(57, 62, 65);
+    text-align: center;
+    padding: 25vh;
+}
+h1{
+    color: #97bdff;
+}
+form{
+    color: #fff;
+}
+#tab{
+    left: 50%; 
+    transform: translate(-50%, 0); 
+    position: absolute;
+    text-align: left    ;
+    color: #fff;
+    border: 1px solid #fff;
+    box-sizing: 20px;
+    border-collapse: collapse;
+    
+}
+input{
+    height: 40px;
+    width: 300px;
+    border-radius: 5px;
+    border-radius: 30px;
+}
+td, tr{
+    border: 3px double #97bdff;
+    padding: 8px;
+
+}
+button {
+    font-weight: bold;
+    color:  white;
+    padding: 0.4vw 1.3vw ;
+    font-size: 17px;
+    margin-top: 4px;
+    border-radius: 0.5vw;
+    background: #111;
+    border: 1px solid #333;
+    margin-bottom: 1vh;
+    border-radius: 60px;
+   }
